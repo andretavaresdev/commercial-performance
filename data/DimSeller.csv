@@ -1,0 +1,41 @@
+﻿SellerID;SellerName;TeamID;TeamName;Region;PerformanceProfile;PerformanceFactor
+S001;Ana Almeida;T01;Enterprise Sul;Sul;Core;0.994
+S002;Bruno Barbosa;T01;Enterprise Sul;Sul;Core;1.021
+S003;Camila Cardoso;T01;Enterprise Sul;Sul;Top Performer;1.28
+S004;Diego Dias;T01;Enterprise Sul;Sul;Core;0.956
+S005;Eduarda Esteves;T01;Enterprise Sul;Sul;Core;0.969
+S006;Felipe Ferreira;T01;Enterprise Sul;Sul;Em Desenvolvimento;0.72
+S007;Gabriel Gomes;T01;Enterprise Sul;Sul;Top Performer;1.28
+S008;Helena Henrique;T02;Enterprise Sudeste;Sudeste;Core;1.0
+S009;Igor Ibrahim;T02;Enterprise Sudeste;Sudeste;Core;1.07
+S010;Julia Junqueira;T02;Enterprise Sudeste;Sudeste;Core;1.023
+S011;Kaique Klein;T02;Enterprise Sudeste;Sudeste;Core;1.052
+S012;Larissa Lima;T02;Enterprise Sudeste;Sudeste;Core;0.928
+S013;Marcos Martins;T02;Enterprise Sudeste;Sudeste;Core;1.033
+S014;Natalia Nogueira;T02;Enterprise Sudeste;Sudeste;Top Performer;1.28
+S015;Otavio Oliveira;T03;Mid-Market Sul;Sul;Core;1.08
+S016;Patricia Pereira;T03;Mid-Market Sul;Sul;Core;0.995
+S017;Rafael Queiroz;T03;Mid-Market Sul;Sul;Core;1.059
+S018;Sabrina Rocha;T03;Mid-Market Sul;Sul;Em Desenvolvimento;0.72
+S019;Thiago Silva;T03;Mid-Market Sul;Sul;Core;1.013
+S020;Vanessa Teixeira;T03;Mid-Market Sul;Sul;Core;0.924
+S021;Arthur Araujo;T03;Mid-Market Sul;Sul;Core;0.926
+S022;Beatriz Batista;T04;Mid-Market Sudeste;Sudeste;Top Performer;1.28
+S023;Caio Costa;T04;Mid-Market Sudeste;Sudeste;Core;1.059
+S024;Daniela Duarte;T04;Mid-Market Sudeste;Sudeste;Core;0.948
+S025;Enzo Freitas;T04;Mid-Market Sudeste;Sudeste;Core;1.005
+S026;Fernanda Garcia;T04;Mid-Market Sudeste;Sudeste;Core;0.932
+S027;Gustavo Haddad;T04;Mid-Market Sudeste;Sudeste;Core;0.98
+S028;Isabela Leite;T04;Mid-Market Sudeste;Sudeste;Core;0.972
+S029;Joao Moraes;T05;Expansão Centro-Oeste;Centro-Oeste;Core;1.055
+S030;Karina Neves;T05;Expansão Centro-Oeste;Centro-Oeste;Core;1.045
+S031;Lucas Paiva;T05;Expansão Centro-Oeste;Centro-Oeste;Em Desenvolvimento;0.72
+S032;Mariana Ribeiro;T05;Expansão Centro-Oeste;Centro-Oeste;Core;1.07
+S033;Nicolas Santos;T05;Expansão Centro-Oeste;Centro-Oeste;Core;1.064
+S034;Olivia Tavares;T05;Expansão Centro-Oeste;Centro-Oeste;Core;0.959
+S035;Pedro Vieira;T06;Expansão Norte/Nordeste;Norte/Nordeste;Core;0.921
+S036;Renata Xavier;T06;Expansão Norte/Nordeste;Norte/Nordeste;Core;0.965
+S037;Samuel Zanetti;T06;Expansão Norte/Nordeste;Norte/Nordeste;Em Desenvolvimento;0.72
+S038;Tatiana Machado;T06;Expansão Norte/Nordeste;Norte/Nordeste;Core;1.076
+S039;Victor Campos;T06;Expansão Norte/Nordeste;Norte/Nordeste;Core;1.002
+S040;Yasmin Rezende;T06;Expansão Norte/Nordeste;Norte/Nordeste;Core;1.007

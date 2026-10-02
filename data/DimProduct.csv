@@ -1,0 +1,51 @@
+﻿ProductID;ProductName;Category;BasePrice
+P001;Cloud Workspace;Cloud & Data;18000
+P002;Data Platform;Cloud & Data;32000
+P003;Backup Cloud;Cloud & Data;14000
+P004;Data Integration;Cloud & Data;26000
+P005;Analytics Suite;Cloud & Data;36000
+P006;AI Starter;Cloud & Data;42000
+P007;Cloud Security;Cloud & Data;28000
+P008;Data Lake Starter;Cloud & Data;52000
+P009;Managed Cloud;Cloud & Data;47000
+P010;BI Enterprise;Cloud & Data;39000
+P011;Endpoint Protect;Cybersecurity;16000
+P012;Identity Shield;Cybersecurity;22000
+P013;SOC Lite;Cybersecurity;31000
+P014;Firewall Pro;Cybersecurity;26000
+P015;Zero Trust Pack;Cybersecurity;43000
+P016;Email Defense;Cybersecurity;14000
+P017;SOC Enterprise;Cybersecurity;58000
+P018;Vulnerability Scan;Cybersecurity;19000
+P019;MFA Business;Cybersecurity;12000
+P020;Secure Access;Cybersecurity;27000
+P021;Switch Core;Networking;21000
+P022;Wi-Fi Business;Networking;18000
+P023;SD-WAN;Networking;35000
+P024;Router Edge;Networking;17000
+P025;Network Monitor;Networking;15000
+P026;Link Optimizer;Networking;24000
+P027;Branch Kit;Networking;29000
+P028;Datacenter Network;Networking;52000
+P029;Wireless Pro;Networking;26000
+P030;Network Care;Networking;13000
+P031;Notebook Pro;Hardware;9000
+P032;Desktop Business;Hardware;7200
+P033;Workstation;Hardware;14500
+P034;Server Entry;Hardware;23000
+P035;Server Pro;Hardware;41000
+P036;Storage Box;Hardware;29000
+P037;Monitor Pro;Hardware;4200
+P038;Thin Client;Hardware;5100
+P039;UPS Business;Hardware;6800
+P040;Device Fleet;Hardware;18000
+P041;Implementation;Services;18000
+P042;Migration;Services;26000
+P043;Assessment;Services;12000
+P044;Training;Services;8000
+P045;Managed Service;Services;34000
+P046;Premium Support;Services;16000
+P047;Architecture Review;Services;21000
+P048;Optimization;Services;19000
+P049;Advisory;Services;24000
+P050;Onboarding;Services;9000

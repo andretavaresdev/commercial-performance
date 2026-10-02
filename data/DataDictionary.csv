@@ -1,0 +1,8 @@
+﻿Tabela;Granularidade;Uso principal
+DimDate;1 linha por dia;Time intelligence e filtros de período
+DimCustomer;1 linha por cliente;Segmento, indústria e localização
+DimProduct;1 linha por produto;Produto e categoria
+DimSeller;1 linha por vendedor;Vendedor, equipe e região comercial
+FactSales;1 linha por item de pedido;Receita, pedidos, ticket, clientes e produtos
+FactPipeline;1 linha por oportunidade por etapa alcançada;Funil e conversão por DISTINCTCOUNT de OpportunityID
+FactTargets;1 linha por vendedor por mês;Meta mensal e atingimento
